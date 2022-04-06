@@ -771,36 +771,6 @@ bot.on("message", msg => {
   }
 })
 
-bot.on("message", msg => {
-  if (msg.content === "Josh smells") {
-    msg.reply("No fam don't diss my boi you are 100% Incorrect");
-  }
-})
-
-bot.on("message", msg => {
-  if (msg.content === "CODY") {
-    msg.reply("from english");
-  }
-})
-
-bot.on("message", msg => {
-  if (msg.content === "cody") {
-    msg.reply("sweats ultrakill");
-  }
-})
-
-bot.on("message", msg => {
-  if (msg.content === "Reub") {
-    msg.reply("smells");
-  }
-})
-
-bot.on("message", msg => {
-  if (msg.content === "REUB") {
-    msg.reply("Mega-virgin");
-  }
-})
-
 
 keepAlive()
 bot.login(config.token);
