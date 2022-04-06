@@ -28,3 +28,5 @@ how gay - tests how gay you are
 
 
 link for my version that is already server hosted - https://discord.com/api/oauth2/authorize?client_id=935551271954444308&permissions=8&scope=bot
+
+Also I finally figured out how to work github lol, ignore the changes lmao
